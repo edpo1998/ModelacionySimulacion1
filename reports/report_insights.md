@@ -80,6 +80,7 @@
 
 ---
 <div style="page-break-after: always;"></div>
+
 ## Tendencia Adicionales agregando las variables
 
 ### Tendencia sin fines de semana
@@ -89,6 +90,7 @@
 </p>
 
 <div style="page-break-after: always;"></div>
+
 ### Tendencia sin feriados
 
 <p align="center">
@@ -96,6 +98,7 @@
 </p>
 
 <div style="page-break-after: always;"></div>
+
 ### Costos por Tipo de Día (08–20 h)
 
 | **Tipo de Día**      | **Costo (Q.)** |
@@ -109,6 +112,7 @@
 
 ---
 <div style="page-break-after: always;"></div>
+
 ### Costos por Estación
 
 | **Estación** | **Costo (Q.)** |
@@ -124,6 +128,7 @@
 
 ---
 <div style="page-break-after: always;"></div>
+
 > **✅ Conclusiones**  
 > 1. Los costos de energía presentan un mínimo en febrero y un pico en mayo.  
 > 1.1 Costo Promedio Mensual con 0.2 MWh en Jornada Completa (8714,86)
